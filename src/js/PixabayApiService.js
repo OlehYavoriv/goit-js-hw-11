@@ -2,7 +2,7 @@ import axios from 'axios';
 import isEmpty from 'lodash.isempty';
 
 const BASE_URL = 'https://pixabay.com/';
-const API_KEY = '24961892-f769a4f96dd83700267a1d6f9';
+const API_KEY = '24991632-14924cfe852ae43a172563aec';
 
 const axiosInstance = axios.create({
   baseURL: BASE_URL,
